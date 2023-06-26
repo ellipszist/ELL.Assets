@@ -1,0 +1,12 @@
+﻿{
+    "Format": "4.0.0",
+    "Mods": {
+        "ExampleMod": {
+            "Name": "Example Mod",
+            "ModPageUrl": "https://example.org/mods/example-mod",
+            "Versions": [
+                { "Version": "1.0.0" }
+            ]
+        }
+    }
+}
