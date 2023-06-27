@@ -2,8 +2,8 @@
     "Format": "4.0.0",
     "Mods": {
         "ExampleMod": {
-            "Name": "Example Mod",
-            "ModPageUrl": "https://example.org/mods/example-mod",
+            "Name": "Alice Premium",
+            "ModPageUrl": "https://www.patreon.com/ELLStore",
             "Versions": [
                 { "Version": "1.0.0" }
             ]
